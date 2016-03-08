@@ -1,0 +1,6 @@
+framework module DocoLibs {
+  umbrella header "DocoLibs-umbrella.h"
+
+  export *
+  module * { export * }
+}
